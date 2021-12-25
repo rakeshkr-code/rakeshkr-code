@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 ***Contact Me***
 <br />
-[linkedin]: https://www.linkedin.com/in/rakesh-kr-mandal-50610a1a5
-[instagram]: https://www.instagram.com/rkmandal149
+[linkedin](https://www.linkedin.com/in/rakesh-kr-mandal-50610a1a5) &nbsp;|&nbsp;
+[instagram](https://www.instagram.com/rkmandal149)  &nbsp;|&nbsp;
+[Gmail](mandalrakesh628@gmail.com)
