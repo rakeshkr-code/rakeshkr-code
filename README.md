@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning for Computer Vision (CNNs)<br>🌱 I’m currently learning LLMs, Agentic AI<br>👯 I’m looking to collaborate on building Impactful Deep Learning models<br>🤔 I’m looking for help with Machine Learning, Deep Learning<br>💬 Ask me about Python, Classical ML, DL, CNNs.<br>
+🔭 I’m currently working on Deep Learning for Computer Vision (CNNs)<br>🌱 I’m currently learning LLMs, Agentic AI<br>👯 I’m looking to collaborate on building Impactful Deep Learning models<br>🤔 I’m looking for help with Gen AI & Agentic AI<br>💬 Ask me about Python, Classical ML, DL, CNNs.<br>
 
 
 ## 🌐 Socials:
